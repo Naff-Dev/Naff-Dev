@@ -3,8 +3,9 @@ tempat saya menaruh dan meng copy code wkwkwk:) :rofl:
 
 - 🔭 &nbsp;ngoding dengan suasana tenang:v :wink:
 - 🌱 &nbsp;Saya mempelajari Ci4, bot WA node.js
-- 💬 &nbsp;gass diskusi tentang bot wa dan ci4
+- 💬 &nbsp;gass diskusi tentang bot wa 
 - 👨‍💻 &nbsp;NGOPI CODE DI [SINI](https://www.github.com/)
+- ☕ &nbsp;DONATE BANG [SINI](https://ibb.co/HrK34rM)
 - ⚡ &nbsp;gass mabar ML aja
 
 📕 &nbsp;**Latest Blog Posts**
