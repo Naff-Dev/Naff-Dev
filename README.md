@@ -33,7 +33,8 @@ Bismillah Full Stack Developer walaupun copas xixixi.
 ```
 
 </details>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatakee14&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Hatakee14&layout=donut)](https://github.com/Hatakee14/github-readme-stats)
 
 [![](https://visitcount.itsvg.in/api?id=Hatakee14&icon=0&color=0)](https://visitcount.itsvg.in)
 
