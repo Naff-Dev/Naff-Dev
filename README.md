@@ -25,7 +25,6 @@ const naff = {
             js: ["Node.js", "Express"]
         },
         databases: ["MySQL", "MongoDB", "SQLite"],
-        misc: ["Firebase", "Docker", "AWS"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Bot WhatsApp Development with Node.js",
@@ -43,12 +42,12 @@ const naff = {
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,vue,jquery,bootstrap,tailwind,laravel,codeigniter,express" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,elysia,react,jquery,bootstrap,tailwind,laravel,codeigniter,express" />
 </p>
 
 ### 🛠️ Tools & Technologies  
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,aws,firebase,mysql,mongodb,sqlite,linux,ubuntu,windows" />
+  <img src="https://skillicons.dev/icons?i=git,github,vscode,firebase,mysql,mongodb,sqlite,ubuntu,windows" />
 </p>
 
 <div align="center">
