@@ -83,10 +83,10 @@ const naff = {
 <a href="https://instagram.com/_nafimlna">
   <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" alt="Instagram" />
 </a>
-<a href="mailto:your-email@example.com">
+<a href="mailto:hostingnaf@example.com">
   <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
 </a>
-<a href="https://wa.me/yourwhatsappnumber">
+<a href="https://wa.me/6282220132841">
   <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp" />
 </a>
 
