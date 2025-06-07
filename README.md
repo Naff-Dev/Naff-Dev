@@ -13,7 +13,7 @@
 ```javascript
 const naff = {
     pronouns: "He" | "Him",
-    code: ["JavaScript", "PHP", "Python", "HTML", "CSS"],
+    code: ["JavaScript", "PHP", "HTML", "CSS"],
     askMeAbout: ["web dev", "tech", "app dev", "bot development"],
     technologies: {
         frontEnd: {
@@ -22,14 +22,15 @@ const naff = {
         },
         backEnd: {
             php: ["CodeIgniter 4", "Laravel"],
-            js: ["Node.js", "Express"],
-            python: ["Django", "Flask"]
+            js: ["Node.js", "Express"]
         },
         databases: ["MySQL", "MongoDB", "SQLite"],
         misc: ["Firebase", "Docker", "AWS"]
     },
     architecture: ["Progressive web applications", "Single page applications"],
     currentFocus: "Bot WhatsApp Development with Node.js",
+    passion: "Building innovative web solutions and WhatsApp bots",
+    workStyle: "Problem solver who loves clean code and efficient solutions",
     funFact: "I debug with console.log() dan saya tidak malu! 🤪"
 };
 ```
@@ -42,7 +43,7 @@ const naff = {
 
 ### 🚀 Languages & Frameworks
 <p align="center">
-  <img src="https://skillicons.dev/icons?i=js,html,css,php,python,nodejs,react,vue,jquery,bootstrap,tailwind,laravel,codeigniter,express,django,flask" />
+  <img src="https://skillicons.dev/icons?i=js,html,css,php,nodejs,react,vue,jquery,bootstrap,tailwind,laravel,codeigniter,express" />
 </p>
 
 ### 🛠️ Tools & Technologies  
@@ -70,7 +71,7 @@ const naff = {
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Objects/Rocket.png" alt="🚀" width="35" height="35" /> What I'm up to
 
 - 🔭 **Currently working on:** Bot WhatsApp dengan Node.js yang keren abis!
-- 🌱 **Learning:** CodeIgniter 4, Advanced Node.js patterns
+- 🌱 **Learning:** CodeIgniter 4, Advanced Node.js patterns, dan React development
 - 💬 **Ask me about:** Bot WhatsApp, Web Development, atau ngoding sambil ngopi ☕
 - 👨‍💻 **Portfolio:** [Check out my projects](https://github.com/Naff-Dev?tab=repositories)
 - ⚡ **Fun fact:** Saya lebih suka ngoding tengah malam sambil denger musik lo-fi
